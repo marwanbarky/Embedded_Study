@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+ 
+ 
 void upper_to_lower(char* s)
 {
     for(int i=0;s[i]!='\0';i++){
