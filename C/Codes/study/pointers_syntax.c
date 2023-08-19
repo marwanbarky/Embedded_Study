@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 
-
-
 int main(void)
 {
 int number = 0;          // A variable of type int initialized to 0
