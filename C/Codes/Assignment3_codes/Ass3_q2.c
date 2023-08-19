@@ -6,7 +6,6 @@ int main (void){
     printf("Is Distinct = [%d]",Isdistinct("Marwn"));
 }
 
-
 int Isdistinct(char* string){
     int distinct=1;
     for(int i=0;string[i]!='\0';i++){
